@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EonsY
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning kali
-- 💞️ I’m looking to collaborate on stuff related to cybersecurity
+- 👀 I’m interested in software development
+- 🌱 I’m currently going through the odin project course
+- 💞️ I’m looking to collaborate on stuff related to software development
 - 📫 You can reach me on leicheewah54@gmail.com
 
 <!---
